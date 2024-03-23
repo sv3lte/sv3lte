@@ -13,30 +13,39 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<div style="text-align: center">
-# Sv3lte
 
+Node  Koa2  Express  Redux  Hox  Vite  Vue  Vuex  Vux  pnpm  Bun Django  Flask  Axum  MySQL  MongoDB  Mongoose  SQLite 
+WebStorm  HBuilderX  Xcode  Git  Github  Gitlab  Gitee  Tauri  Taro  HTML5  CSS3  Bootstrap  Miniprogram  Dart  Flutter
+Photoshop  Sketch  Javascript  MacOS  WSL  Pug  Bruno  Postman  Ant-Design  Ant-Design-Pro  ElementUI
+
+-->
+
+<h1 align="center">✨ Welcome to Sv3lte's Github Profile ✨</h1>
+
+<div align="center">
 ![React](https://img.shields.io/badge/React-0078d6?style=for-the-badge&logo=react&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-ff3e00?style=for-the-badge&logo=Svelte&logoColor=white)
 <br>
 ![Zed](https://img.shields.io/badge/Zed-%232326.svg?style=for-the-badge&logo=zed&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23239120.svg?style=for-the-badge&logo=unity&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512bd4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-%23239120.svg?style=for-the-badge&logo=vue&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-512bd4?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
-![Rust](https://img.shields.io/badge/rust-e53717.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-e53717.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-9a4993.svg?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0078d6?style=for-the-badge&logo=typescript&logoColor=white)
 <br>
 ![VSCode](https://img.shields.io/badge/VSCode-0078d6?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-da4643?style=for-the-badge&logo=Rider&logoColor=white)
-![Clion](https://img.shields.io/badge/CLion-22d88f?style=for-the-badge&logo=clion&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-da4643?style=for-the-badge&logo=mongodb&logoColor=white)
+![Django](https://img.shields.io/badge/Django-22d88f?style=for-the-badge&logo=django&logoColor=white)
 <br>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-ff3e00?style=for-the-badge&logo=ubuntu&logoColor=white)
-<!-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-294172?style=for-the-badge&logo=ubuntu&logoColor=white) -->
-![Windows 10](https://img.shields.io/badge/Windows%2010-0078d6?style=for-the-badge&logo=windows&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0078d6?style=for-the-badge&logo=bootstrap&logoColor=white)
 <br>
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-00979D?style=for-the-badge&logo=antdesign&logoColor=white)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sv3lte&layout=compact" />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sv3lte&theme=github-dark&hide_border=true&background=161B22)](https://git.io/streak-stats)
 </div>
+
+<!-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-294172?style=for-the-badge&logo=ubuntu&logoColor=white) -->
