@@ -20,7 +20,7 @@ Photoshop  Sketch  Javascript  MacOS  WSL  Pug  Bruno  Postman  Ant-Design  Ant-
 
 -->
 
-<h1 align="center">✨ Welcome to Sv3lte's Github Profile ✨</h1>
+<h1 align="center">✨ Welcome to Sv3lte's Backyard ✨</h1>
 
 <div align="center">
 
@@ -48,10 +48,9 @@ Photoshop  Sketch  Javascript  MacOS  WSL  Pug  Bruno  Postman  Ant-Design  Ant-
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0078d6?style=for-the-badge&logo=bootstrap&logoColor=white)
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sv3lte&layout=compact" />
-<br>
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sv3lte&theme=github-dark&hide_border=true&background=161B22)
 <br>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sv3lte&theme=github-dark&hide_border=true&background=161B22)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sv3lte&layout=compact" />
 
 </div>
