@@ -25,8 +25,8 @@ Photoshop  Sketch  Javascript  MacOS  WSL  Pug  Bruno  Postman  Ant-Design  Ant-
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-129fca?style=for-the-badge&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-43b883?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-ff3e00?style=for-the-badge&logo=Svelte&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-43b883?style=for-the-badge&logo=vue.js&logoColor=white)
 <br>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
@@ -39,8 +39,8 @@ Photoshop  Sketch  Javascript  MacOS  WSL  Pug  Bruno  Postman  Ant-Design  Ant-
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 <br>
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Axum](https://img.shields.io/badge/Axum-a21caf?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-25c9db?style=for-the-badge&logo=tauri&logoColor=white)
 <br>
 
@@ -54,9 +54,9 @@ Photoshop  Sketch  Javascript  MacOS  WSL  Pug  Bruno  Postman  Ant-Design  Ant-
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-39bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 <br>
 
-![VSCode](https://img.shields.io/badge/VSCode-0067b8?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-ea5421?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0067b8?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <br>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sv3lte&theme=github-dark&hide_border=true&background=161B22)
