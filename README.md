@@ -29,7 +29,7 @@ Photoshop  Sketch  Figma  Javascript  MacOS  WSL  Pug  Bruno  Postman  Ant-Desig
 ![Vue.js](https://img.shields.io/badge/Vue.js-43b883?style=for-the-badge&logo=vue.js&logoColor=white)
 <br>
 
-![Node.js](https://img.shields.io/badge/Node.js-84ba64?style=for-the-badge&logo=nodejs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-84ba64?style=for-the-badge&logo=node.js&logoColor=white)
 ![Koa.js](https://img.shields.io/badge/Koa.js-33333d?style=for-the-badge&logo=koa&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
 <br>
