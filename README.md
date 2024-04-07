@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 Node  Koa2  Express  Redux  Hox  Vite  Vue  Vuex  Vux  pnpm  Bun Django  Flask  Axum  MySQL  MongoDB  Mongoose  SQLite 
 WebStorm  HBuilderX  Xcode  Git  Github  Gitlab  Gitee  Tauri  Taro  HTML5  CSS3  Bootstrap  Miniprogram  Dart  Flutter
-Photoshop  Sketch  Javascript  MacOS  WSL  Pug  Bruno  Postman  Ant-Design  Ant-Design-Pro  ElementUI
+Photoshop  Sketch  Figma  Javascript  MacOS  WSL  Pug  Bruno  Postman  Ant-Design  Ant-Design-Pro  ElementUI
 
 -->
 
@@ -29,9 +29,9 @@ Photoshop  Sketch  Javascript  MacOS  WSL  Pug  Bruno  Postman  Ant-Design  Ant-
 ![Vue.js](https://img.shields.io/badge/Vue.js-43b883?style=for-the-badge&logo=vue.js&logoColor=white)
 <br>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-84ba64?style=for-the-badge&logo=nodejs&logoColor=white)
 ![Koa.js](https://img.shields.io/badge/Koa.js-33333d?style=for-the-badge&logo=koa&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-4ad1fd?style=for-the-badge&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
@@ -65,3 +65,9 @@ Photoshop  Sketch  Javascript  MacOS  WSL  Pug  Bruno  Postman  Ant-Design  Ant-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sv3lte&layout=compact" />
 
 </div>
+
+<!-- ![Flutter](https://img.shields.io/badge/Flutter-4ad1fd?style=for-the-badge&logo=flutter&logoColor=white) -->
+<!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336792?style=for-the-badge&logo=postgresql&logoColor=white) -->
+<!-- ![Photoshop](https://img.shields.io/badge/Photoshop-001e36?style=for-the-badge&logo=adobe&logoColor=white) -->
+<!-- ![Sketch](https://img.shields.io/badge/Sketch-f26725?style=for-the-badge&logo=sketch&logoColor=white) -->
+<!-- ![Figma](https://img.shields.io/badge/Figma-5551ff?style=for-the-badge&logo=figma&logoColor=white) -->
